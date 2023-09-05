@@ -1,16 +1,39 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "Mark",
+      "email": "otto@gmail.com",
+      "children": true,
+      "permissions": false,
+      "id": 0
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "name": "Jacob",
+      "email": "tornto@gmail.com",
+      "children": false,
+      "permissions": true
+    },
+    {
+      "name": "Alex",
+      "email": "alex@mail.ru",
+      "children": true,
+      "permissions": false,
+      "id": 2
+    },
+    {
+      "name": "Max",
+      "email": "max@gmail.com",
+      "children": false,
+      "permissions": false,
+      "id": 3
+    },
+    {
+      "name": "Stepan",
+      "email": "stepan@yandex.ru",
+      "children": true,
+      "permissions": true,
+      "id": 4
     }
   ]
 }
