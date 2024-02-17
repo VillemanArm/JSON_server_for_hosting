@@ -35,5 +35,224 @@
       "permissions": true,
       "id": 4
     }
-  ]
+  ],
+  "posts": [
+    { 
+        "id": 1, 
+        "date": "17.02.2024", 
+        "title": "This is the start of the blog", 
+        "body": "This app gets and sends data to the server" 
+    }, 
+    { 
+        "id": 2, 
+        "date": "16.02.2024", 
+        "title": "Server possibilities", 
+        "body": "The server can handle GET, POST, DELETE, PATCH, and PUT requests" 
+    }, 
+    { 
+        "id": 3, 
+        "date": "15.02.2024", 
+        "title": "Introduction to APIs", 
+        "body": "An API (Application Programming Interface) allows different software applications to communicate with each other" 
+    }, 
+    { 
+        "id": 4, 
+        "date": "14.02.2024", 
+        "title": "Understanding JSON", 
+        "body": "JSON (JavaScript Object Notation) is a lightweight data-interchange format" 
+    }, 
+    { 
+        "id": 5, 
+        "date": "13.02.2024", 
+        "title": "Working with databases", 
+        "body": "Databases are used to store and retrieve data efficiently" 
+    }, 
+    { 
+        "id": 6, 
+        "date": "12.02.2024", 
+        "title": "Frontend frameworks", 
+        "body": "Frameworks like React, Angular, and Vue help in building interactive user interfaces" 
+    }, 
+    { 
+        "id": 7, 
+        "date": "11.02.2024", 
+        "title": "Backend development", 
+        "body": "Backend development involves server-side programming and database management" 
+    }, 
+    { 
+        "id": 8, 
+        "date": "10.02.2024", 
+        "title": "Web security", 
+        "body": "Implementing security measures is crucial to protect web applications from cyber threats" 
+    }, 
+    { 
+        "id": 9, 
+        "date": "09.02.2024", 
+        "title": "Responsive design", 
+        "body": "Creating websites that adapt to different screen sizes enhances user experience" 
+    }, 
+    { 
+        "id": 10, 
+        "date": "08.02.2024", 
+        "title": "Mobile app development", 
+        "body": "Building mobile applications for iOS and Android platforms requires knowledge of specific programming languages" 
+    }, 
+    { 
+        "id": 11, 
+        "date": "07.02.2024", 
+        "title": "Artificial intelligence", 
+        "body": "AI technologies like machine learning and natural language processing are transforming various industries" 
+    }, 
+    { 
+        "id": 12, 
+        "date": "06.02.2024", 
+        "title": "Cloud computing", 
+        "body": "Leveraging cloud services enables businesses to scale and optimize their IT infrastructure" 
+    }, 
+    { 
+        "id": 13, 
+        "date": "05.02.2024", 
+        "title": "E-commerce trends", 
+        "body": "Online shopping trends are evolving with the rise of mobile commerce and personalized recommendations" 
+    }, 
+    { 
+        "id": 14, 
+        "date": "04.02.2024", 
+        "title": "Cybersecurity best practices", 
+        "body": "Following cybersecurity best practices is essential to safeguard sensitive data from cyber attacks" 
+    }, 
+    { 
+        "id": 15, 
+        "date": "03.02.2024", 
+        "title": "IoT applications", 
+        "body": "Internet of Things (IoT) applications are revolutionizing industries by connecting devices and collecting data" 
+    }, 
+    { 
+        "id": 16, 
+        "date": "02.02.2024", 
+        "title": "Data analytics", 
+        "body": "Analyzing data helps businesses make informed decisions and identify trends for strategic planning" 
+    }, 
+    { 
+        "id": 17, 
+        "date": "01.02.2024", 
+        "title": "Virtual reality experiences", 
+        "body": "Virtual reality technology is creating immersive experiences in gaming, education, and training" 
+    }, 
+    { 
+        "id": 18, 
+        "date": "31.01.2024", 
+        "title": "Blockchain technology", 
+        "body": "Blockchain technology offers secure and transparent transactions through decentralized ledgers" 
+    }, 
+    { 
+        "id": 19, 
+        "date": "30.01.2024", 
+        "title": "User experience design", 
+        "body": "Designing intuitive interfaces and seamless interactions enhances user satisfaction" 
+    }, 
+    { 
+        "id": 20, 
+        "date": "29.01.2024", 
+        "title": "Agile methodology", 
+        "body": "Agile methodology emphasizes iterative development and collaboration for faster project delivery" 
+    }, 
+    { 
+        "id": 21, 
+        "date": "28.01.2024", 
+        "title": "Software testing strategies", 
+        "body": "Implementing effective testing strategies ensures the quality and reliability of software applications" 
+    }, 
+    { 
+        "id": 22, 
+        "date": "27.01.2024", 
+        "title": "AI-powered chatbots", 
+        "body": "Chatbots powered by artificial intelligence provide automated customer support and personalized interactions" 
+    }, 
+    { 
+        "id": 23, 
+        "date": "26.01.2024", 
+        "title": "Big data analytics", 
+        "body": "Leveraging big data analytics helps in uncovering valuable insights for business growth" 
+    }, 
+    { 
+        "id": 24, 
+        "date": "25.01.2024", 
+        "title": "Cloud-native applications", 
+        "body": "Developing cloud-native applications enables scalability and flexibility in cloud environments" 
+    }, 
+    { 
+        "id": 25, 
+        "date": "24.01.2024", 
+        "title": "Internet security protocols", 
+        "body": "Implementing security protocols like SSL/TLS ensures secure communication over the internet" 
+    }, 
+    { 
+        "id": 26, 
+        "date": "23.01.2024", 
+        "title": "DevOps practices", 
+        "body": "DevOps practices streamline software development and deployment processes for increased efficiency" 
+    }, 
+    { 
+        "id": 27, 
+        "date": "22.01.2024", 
+        "title": "Machine learning algorithms", 
+        "body": "Machine learning algorithms enable computers to learn from data and make predictions or decisions" 
+    }, 
+    { 
+        "id": 28, 
+        "date": "21.01.2024", 
+        "title": "Robotic process automation", 
+        "body": "RPA technology automates repetitive tasks to improve productivity and reduce human errors" 
+    }, 
+    { 
+        "id": 29, 
+        "date": "20.01.2024", 
+        "title": "Cross-platform development", 
+        "body": "Developing applications that run on multiple platforms reduces development time and costs" 
+    }, 
+    { 
+        "id": 30, 
+        "date": "19.01.2024", 
+        "title": "UX/UI design principles", 
+        "body": "Applying UX/UI design principles enhances user satisfaction and usability of digital products" 
+    }, 
+    { 
+        "id": 31, 
+        "date": "18.01.2024", 
+        "title": "Scalable infrastructure solutions", 
+        "body": "Implementing scalable infrastructure solutions ensures that systems can handle increased workloads" 
+    }, 
+    { 
+        "id": 32, 
+        "date": "17.01.2024", 
+        "title": "API integration strategies", 
+        "body": "Effective API integration strategies enable seamless communication between different software systems" 
+    }, 
+    { 
+        "id": 33, 
+        "date": "16.01.2024", 
+        "title": "Cybersecurity risk management", 
+        "body": "Proper cybersecurity risk management practices help in identifying and mitigating potential security threats" 
+    }, 
+    { 
+        "id": 34, 
+        "date": "15.01.2024", 
+        "title": "IoT security measures", 
+        "body": "Implementing IoT security measures protects connected devices and data from cyber attacks" 
+    }, 
+    { 
+        "id": 35, 
+        "date": "14.01.2024", 
+        "title": "Data privacy regulations", 
+        "body": "Complying with data privacy regulations ensures the protection of personal information and user data" 
+    }, 
+    { 
+        "id": 36, 
+        "date": "13.01.2024", 
+        "title": "Web accessibility standards", 
+        "body": "Following web accessibility standards ensures that websites are usable by people with disabilities" 
+    }
+   
+]
 }
